@@ -26,10 +26,7 @@ I am an **Electrical-Electronics Engineering Student** at **Bursa Technical Univ
 
 ### 🧠 Engineering Philosophy
 
-> *"Never interrupt your enemy when he is making a mistake."*
-> — **Napoleon Bonaparte**
-
-*(In engineering terms: If the simulation is failing, let it fail. The logs will tell you more truth than a successful flight.)*
+> *"In engineering terms: If the simulation is failing, let it fail. The logs will tell you more truth than a successful flight."*
 
 ---
 
