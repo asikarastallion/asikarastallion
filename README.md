@@ -28,7 +28,7 @@ I am an **Electrical-Electronics Engineering Student** at **Bursa Technical Univ
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mustafaserdarsokmen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"></a>
+<a href="https://www.linkedin.com/in/mserdarsokmen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"></a>
 <a href="https://x.com/asikarastallion"><img src="https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?style=flat&logo=x&logoColor=white" height="25"></a>
 <a href="https://dev.to/asikarastallion"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" height="25"></a>
 <a href="https://www.instagram.com/asikarastallion/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25"></a>
