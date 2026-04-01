@@ -1,16 +1,16 @@
-# Hi there, I'm Serdar! 👋
+# Hi there, I'm Serdar! 
 
-### 🚀 Avionics & Flight Control Systems Engineer (Candidate)
+### Avionics & Flight Control Systems Engineer (Candidate)
 I am an **Electrical-Electronics Engineering Student** at **Bursa Technical University** and a certified **UAV Pilot**. My passion lies in designing the "brains" of unmanned aerial vehicles—from flight dynamics simulation to embedded control algorithms.
 
-- 🏗️ I'm currently working on **VTOL UAV Systems & Hybrid Power Management**
-- 🛡️ Developing **NavGuard**: A GPS spoofing defense layer for autonomous flight
-- 🧠 I'm currently learning **Advanced C++ & Modern Control Theory (LQR/Kalman)**
-- ✍️ Writing about my journey: **[30 Days of Avionics Challenge on Dev.to](https://dev.to/asikarastallion)**
+- I'm currently working on **VTOL UAV Systems & Hybrid Power Management**
+- Developing **NavGuard**: A GPS spoofing defense layer for autonomous flight
+- I'm currently learning **Advanced C++ & Modern Control Theory (LQR/Kalman)**
+- Writing about my journey: **[30 Days of Avionics Challenge on Dev.to](https://dev.to/asikarastallion)**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-ED1C24?logo=mathworks&logoColor=white) |
@@ -21,12 +21,12 @@ I am an **Electrical-Electronics Engineering Student** at **Bursa Technical Univ
 
 ---
 
-### 📚 Featured Libraries & Publications
+### Featured Libraries & Publications
 - **[Avionics and UAV Control Systems Library](https://www.mathworks.com/matlabcentral/fileexchange/182696-avionics-and-uav-control-systems-library)**: A MATLAB/Simulink collection for flight dynamics and control law development.
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/mserdarsokmen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"></a>
 <a href="https://x.com/asikarastallion"><img src="https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?style=flat&logo=x&logoColor=white" height="25"></a>
@@ -37,5 +37,5 @@ I am an **Electrical-Electronics Engineering Student** at **Bursa Technical Univ
 
 ---
 
-### 🧠 Engineering Philosophy
+### Engineering Philosophy
 > "In engineering terms: If the simulation is failing, let it fail. The logs will tell you more truth than a successful flight."
