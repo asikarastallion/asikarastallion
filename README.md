@@ -6,7 +6,6 @@ I am an **Electrical-Electronics Engineering Student** at **Bursa Technical Univ
 - I'm currently working on **VTOL UAV Systems & Hybrid Power Management**
 - Developing **NavGuard**: A GPS spoofing defense layer for autonomous flight
 - I'm currently learning **Advanced C++ & Modern Control Theory (LQR/Kalman)**
-- Writing about my journey: **[30 Days of Avionics Challenge on Dev.to](https://dev.to/asikarastallion)**
 
 ---
 
